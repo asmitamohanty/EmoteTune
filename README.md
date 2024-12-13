@@ -5,7 +5,8 @@
 * 12-13-2024
 * Transformer with GMM
 
-* Vaswani, A. (2017). Attention is all you need. Advances in Neural Information Processing Systems.Karlis, Dimitris & Xekalaki, Evdokia. (2003). Mixtures Everywhere.
+* Vaswani, A. (2017). Attention is all you need. Advances in Neural Information Processing Systems.
+* Karlis, Dimitris & Xekalaki, Evdokia. (2003). Mixtures Everywhere.
 
 * asmitamo@usc.edu,shrinidh@usc.edu
 
