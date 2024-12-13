@@ -1,4 +1,4 @@
-# Model Card for EmoteTune
+# EmoteTune
 
 ## Model Details 
 * Asmita Mohanty and Shrinidhi Mahesh 
