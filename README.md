@@ -1,7 +1,7 @@
 # EmoteTune
 
 ## Model Details 
-* Asmita Mohanty and Shrinidhi Mahesh 
+* Contributors: Asmita Mohanty and Shrinidhi Mahesh 
 * 12-13-2024
 * Transformer with GMM
 
